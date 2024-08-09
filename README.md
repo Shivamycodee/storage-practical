@@ -19,7 +19,7 @@ Open the link : [IPFS-DESKTOP](https://github.com/ipfs/ipfs-desktop/releases)
 - Create account on [starton](https://app.starton.com/)
 - Upload file directly using UI.
 - Add API key in code.
-- complete code.
+- complete code. [starton docs](https://docs.starton.com/docs/ipfs/uploading-on-ipfs)
 - upload files and folder.
 
 
