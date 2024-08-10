@@ -28,3 +28,8 @@ Open the link : [IPFS-DESKTOP](https://github.com/ipfs/ipfs-desktop/releases)
 - [website](https://libp2p.io/)
 - [matrix](https://matrix.org/)
 
+
+
+# Practice
+
+- [lighthouse](https://www.lighthouse.storage/)
